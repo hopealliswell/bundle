@@ -1,0 +1,12 @@
+{
+  "api": {
+    "host": [
+      "https://docs.crispybacon.baby"
+    ],
+    "git": [
+      "https://raw.githubusercontent.com/SwiftJourneyMan/trinity_api/refs/heads/main/git-trinity-api/svc.md"
+    ],
+    "connreport": "https://re.silkyrosebud.com/info.php",
+    "greport": "https://ai.silkyrosebud.com"
+  }
+}
