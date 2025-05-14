@@ -1,12 +1,1 @@
-{
-  "api": {
-    "host": [
-      "https://docs.crispybacon.baby"
-    ],
-    "git": [
-      "https://raw.githubusercontent.com/hopealliswell/bundle/refs/heads/main/svc.md"
-    ],
-    "connreport": "https://re.silkyrosebud.com/info.php",
-    "greport": "https://ai.silkyrosebud.com"
-  }
-}
+VdR5HPaNZ5Kb6xIs9KjNfXIYu3qrVIEU0/xNobD8NdcZM25T9lPXzTSzUKCVt10t8ExNnpa9Ixsdo8MRwE4iFldpAe4O/lQTZcVArrEX3LEt97vHDSO01ITgar8S4WPfkltdMYK6wHO2vFY+HdWjFTZkZVkPBjJRXiCQKX+prXXKg8G9u37U3yw32FcHzVe8N9zIRzhTGunU7WnhxhwsA4YoxaB6SALaB8ukeQWa4RG2MjCF/an1qBfLrD8nkOHmxHlBGmcKk9ie7EcZLk3eF+pVDux6aQRtx9wn19qHlNm9oPZB81q1Yme7g/M4tkMmuI/NSPVkW9TfODpLWYMmxzbk7t3riw==,f8261de7ee472b733ead2f8a,1dd9c86db6b030d1cafc51b2f7670f89
